@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restudy</title>
+</head>
+<body>
+<table border="3" bordercolor="blue" width="500" height="300" align="center">
+    <tr bgcolor="pink" align="center">
+        <p><td colspan="3" span style="color:black">today's in&outcome</td></p>
+    </tr>
+    <tr align="center" bgcolor="skyblue">
+        <td>contents</td>
+        <td>income</td>
+        <td>outcome</td>
+    </tr>
+    <tr>
+        <td>salary</td>
+        <td>5,000,000</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>lunch</td>
+        <td></td>
+        <td>5,000</td>
+    </tr>
+    <tr>
+        <td>for parents</td>
+        <td>for parents</td>
+        <td>30,000</td>
+    </tr>
+    <tr>
+        <td rowspan="4" bgcolor="skyblue">total</td>
+    </tr>
+    <tr>
+        <td>income</td>
+        <td>expense</td>
+
+    </tr>
+    <tr>
+        <td>5,000,000</td>
+        <td>35,000</td>
+    </tr>
+    <tr>
+        <td>balance</td>
+        <td>bla.bla</td>
+    </tr>
+</table>
+ </table>
+</body>
+</html>
